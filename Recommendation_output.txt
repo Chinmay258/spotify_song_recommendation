@@ -1,0 +1,12 @@
+####OUTPUT####
+
+
+C:\Users\death\AppData\Local\Microsoft\WindowsApps\python3.11.exe C:\Users\death\PycharmProjects\pythonProject1\meow.py 
+                  track_name   track_artist playlist_genre
+15730          Absolute Zero     Stone Sour           rock
+16027  Long Live Rock N Roll        Rainbow           rock
+11275       There Was A Time  Guns N' Roses           rock
+271         Love You Forever   Nicky Romero            pop
+956                  Changes    Steve Hartz            pop
+
+Process finished with exit code 0
